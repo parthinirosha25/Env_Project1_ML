@@ -1,2 +1,2 @@
 print("A")
-print("L")
+print("B")
