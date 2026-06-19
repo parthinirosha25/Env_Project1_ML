@@ -9,7 +9,7 @@ def process_roster(roster):
 
     names = [driver[0] for driver in updated_roster]
     names.sort()
-    print("Print name:  ", names)
+    print("Print name is:  ", names)
 
     high_performers = 0
     for driver in roster:
